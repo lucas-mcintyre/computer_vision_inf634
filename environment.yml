@@ -1,0 +1,21 @@
+name: computer-vision-inf634
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch-cuda=11.6
+  - pytorch
+  - pandas
+  - matplotlib
+  - opencv
+  - scipy
+  - pip
+  - pip:
+      - dominate==2.6.0
+      - torchvision==0.9.1
+      - Pillow==8.0.1
+      - numpy==1.19.2
+      - visdom==0.1.8
+      - wandb==0.12.18
+      - torch-lr-finder==0.2.1
+prefix: /home/thomas/miniconda3/envs/computer-vision-inf634
