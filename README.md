@@ -48,8 +48,7 @@ The following notebooks are provided in this repository:
 - `Computer_Vision_INF634.ipynb`: This notebook contains code that can be used to train models, evaluate their
   performance, run the Grad-CAM on them and to digitally "clean" the images using image inpainting. The .py files in the
   `src` folder need to be uploaded to the colab environment for this notebook to work.
-- `CycleGAN_Training.ipynb`: This notebook contains code for training the CycleGAN model (which unfortunately did not
-  work very well).
+- `CycleGAN_Training.ipynb`: This notebook contains code for training the CycleGAN model.
 
 ### Code
 
